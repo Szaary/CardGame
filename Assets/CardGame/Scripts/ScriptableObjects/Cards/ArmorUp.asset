@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49b67eb659c3263449bdab65f54181be, type: 3}
+  m_Name: ArmorUp
+  m_EditorClassIdentifier: 
+  name: ArmorUp
+  description: Get Armor
+  cost: 1
+  attack: 0
+  defence: 5
+  aoe: 0
+  canTargetEnemy: 0
+  canChangePlayerArmor: 1
+  listOfSkills: 010000000000000000000000
+  sprite: {fileID: 8110719193379804542, guid: 3c3fee5e3926ab1419a9213cc3ef12ac, type: 3}
+  audioClip: {fileID: 0}
